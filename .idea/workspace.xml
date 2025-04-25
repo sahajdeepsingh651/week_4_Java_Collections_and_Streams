@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b32e3e4-7473-4d38-8023-30920139ac06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01 -Java Generics/AI_Driven_Resume.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 -Java Generics/Market.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 -Java Generics/MarketPlace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 -Java Generics/MealGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 -Java Generics/UniversiySystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 -Java Generics/Warehouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/FindSubsets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/InsurancePolicyManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/NthElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/Reverse_list.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/RotateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/SetToSortedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/Setequal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/SymmetricDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/UnionandIntersection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/UnionandIntersection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Collections/frequency.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2wLMmQeQnJtcxNEtYrkLdHwn6fU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FindSubsets.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MealGenerator.executor": "Run",
+    "Application.NthElement.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.Reverse_list.executor": "Run",
+    "Application.RotateList.executor": "Run",
+    "Application.SetToSortedList.executor": "Run",
+    "Application.Setequal.executor": "Run",
+    "Application.SymmetricDifference.executor": "Run",
+    "Application.UnionandIntersection.executor": "Run",
+    "Application.UniversiySystem.executor": "Run",
+    "Application.Warehouse.executor": "Run",
+    "Application.frequency.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sahaj Deep Singh/Desktop/Java_practise/week4/Day5_Regex_Junit"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="week4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="week4" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="week4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="week4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b32e3e4-7473-4d38-8023-30920139ac06" name="Changes" comment="" />
+      <created>1745816559134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745816559134</updated>
+    </task>
+    <servers />
+  </component>
+</project>
